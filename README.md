@@ -2,6 +2,10 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882582406358515713)](https://discord.com/users/882582406358515713)
 
+# Demo
+
+View: https://demo.vibescripts.com.tr/profile-card/
+
 # Kurulum 🇹🇷
 
 1. İndirdikten sonra kendinize göre ayarlayabilirsiniz.
